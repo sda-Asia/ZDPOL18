@@ -1,0 +1,61 @@
+Czym jest przypadek testowy? - to zbiór danych wejściowych, wstępnych warunków wykonania, 
+oczekiwanych rezultatów i końcowych kryteriów wykonania 
+
+Czym jest warunek testowy? - to element lub zdarzenie modułu lub systemu, 
+który może być zweryfikowany przez jeden lub więcej przypadków testowych
+
+Proces testowy.
+Planowanie testów;
+monitorowanie testów i nadzór nad testami;
+analiza testów;
+projektowanie testów;
+implementacja testów;
+wykonywanie testów;
+ukończenie testów.
+
+Co zawiera dobry przypadek testowy?
+Tytuł / Summary
+Opis / Description
+Warunki wstępne / Precondition
+Kroki / Test Steps
+Oczekiwane rezultaty / Expected Result
+Środowisko i wersję
+
+Zasady testowania wg ISTQB.
+1. Testowanie ujawnia usterki, ale nie może dowieść ich braku
+2. Testowanie gruntowne nie jest możliwe
+3. Wczesne testowanie oszczędza czas i pieniądze
+4. Kumulowanie się defektów
+5. Paradoks pestycydów
+6. Testowanie zależy od kontekstu
+7. Błędne przekonanie o braku błędów
+
+Poziomy testów
+-Modułowe (unit)
+-Integracyjne (integration)
+-Systemowe (system)
+-Akceptacyjne (acceptance)
+
+Typy testów:
+Testowanie Dynamiczne
+Testowanie Statyczne
+Dynamiczne to funkcjonalne, niefunkcjonalne, strukturalne (białoskrzynkowe), czarnoskrzynkowe, związane ze zmianami - 
+w tym testy pielęgnacyjne.
+Statyczne to przeglądy, analiza statyczna kodu, anliza syntaktyczna oraz testowaniw dokumentów i wymagań 
+
+Techniki projektowania testów
+Czarnoskrzynkowe - klasy równowązności, analiza wartości brzegowych, tabele decyzyjne, przejści epomiędzy stanami 
+oraz przypadku użycia (use case)
+Białoskrzynkowe -pokrycie kodu, pokrycie instrukcji, pokrycie decyzji.
+Oparte na doświadczeniu - wstrzykiwanie błędów, zgadywanie błędów, Listy kontrolne, Testowanie eksploracyjne, testowanie ad-hoc (w zależności od potrzeby)
+
+Jakie elementy zawiera plan testów?
+Ogólny opis,
+Zakres testów i przedmiot testów,
+Kryteria wejścia i wyjścia.
+Harmonogram.
+Osoby odpowiedzialne.
+Narzędzia.
+
+Podział ryzyk - projektowe i produktowe (jakościowe)
+Jak radzić sobie z ryzykiem - akceptować, łagodzić, unikać
