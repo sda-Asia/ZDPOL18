@@ -1,0 +1,4 @@
+# ZDPOL18
+Różnica między frontend a backend.
+Frontend jest wizualny dla użytkowników (wygląd, obrazy, opisy, interakcje z użytkownikiem itp)
+Backend jest niewidzialny dla użytkownika, tworzy logike korzystania z danych zebranych w tabelach baz danych.
